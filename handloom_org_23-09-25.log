@@ -1,0 +1,1105 @@
+2025-09-23 11:31:16,382 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:16,424 [7] INFO FlureeCS - query :{"select": ["*"],"from": "organization"}
+2025-09-23 11:31:16,506 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:16,786 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:17,226 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:17,226 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"8d787f4f-cd48-4b37-aa61-960dab08d10e","state":"Meghalaya","district":"North Garo Hills","department":"Department of Business Development","city":"","type":"Own","organization_name":"","isactive":"1","createdate":1758627077226,"updatedate":1758627077226}]
+2025-09-23 11:31:17,226 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:17,405 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:17,405 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:17,405 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"0d39d8a5-9c66-466f-806f-1ba663afbfcb","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Gendrabil","type":"Organization","organization_name":"Sijou Weaving","isactive":"1","createdate":1758627077405,"updatedate":1758627077405}]
+2025-09-23 11:31:17,405 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:17,560 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:17,560 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:17,560 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"472974b0-4bee-4bea-9ec1-b739a2b5966f","state":"Nagaland","district":"Dimapur","department":"Department of Business Development","city":"Burma Camp","type":"Own","organization_name":"Jaojen Group","isactive":"1","createdate":1758627077560,"updatedate":1758627077560}]
+2025-09-23 11:31:17,560 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:17,719 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:17,719 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:17,724 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7e10b259-0458-409d-8378-e1fe0ace9762","state":"Mizoram","district":"Champhai","department":"Department of Business Development","city":"","type":"Own","organization_name":"","isactive":"1","createdate":1758627077719,"updatedate":1758627077719}]
+2025-09-23 11:31:17,724 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:18,172 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:18,172 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:18,172 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"02dbb36d-c2ea-463e-a111-5e1f7e450d86","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Hathimatha","type":"Own","organization_name":"Bala Brahma","isactive":"1","createdate":1758627078172,"updatedate":1758627078172}]
+2025-09-23 11:31:18,172 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:18,319 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:18,319 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:18,319 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"a0beb64f-3a18-4165-8378-563739d002bd","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Ranighuli","type":"Own","organization_name":"Bala Brahma","isactive":"1","createdate":1758627078319,"updatedate":1758627078319}]
+2025-09-23 11:31:18,319 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:18,474 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:18,474 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:18,474 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9912c2c3-95d8-436e-9150-b084d9aeec09","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Maurigaon Pt l","type":"Own","organization_name":"Bala Brahma","isactive":"1","createdate":1758627078474,"updatedate":1758627078474}]
+2025-09-23 11:31:18,474 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:18,609 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:18,609 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:18,609 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"b2daf943-d808-4ba0-a4fc-66f2355979ff","state":"Assam","district":"Dibrugarh","department":"Department of Livelihood and Entrepreneurship","city":"Duliajan","type":"Organization","organization_name":"Centre of Excellence","isactive":"1","createdate":1758627078609,"updatedate":1758627078609}]
+2025-09-23 11:31:18,609 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:18,742 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:18,742 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:18,742 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9b0aed51-415f-4ff2-b95d-14f1d40c241a","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Tayeng Tarang","type":"Organization","organization_name":"H.O.P.E. FOUNDATION","isactive":"1","createdate":1758627078742,"updatedate":1758627078742}]
+2025-09-23 11:31:18,742 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:18,914 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:18,914 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:18,914 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"56e4b388-bc5f-462d-9323-933efffdbc01","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Naharlagun","type":"Organization","organization_name":"Jenier Weaver Cooperative Society","isactive":"1","createdate":1758627078914,"updatedate":1758627078914}]
+2025-09-23 11:31:18,914 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:19,112 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:19,112 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:19,112 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"6dbc9707-28a6-4adc-9fa7-94b4ef53fa6e","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Ane Chuniya SHG","isactive":"1","createdate":1758627079112,"updatedate":1758627079112}]
+2025-09-23 11:31:19,112 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:19,280 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:19,280 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:19,280 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"394f69f7-2a94-42dd-9d8d-ebb14575afe4","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Swyu Ajin SHG","isactive":"1","createdate":1758627079280,"updatedate":1758627079280}]
+2025-09-23 11:31:19,280 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:19,443 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:19,443 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:19,443 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"958c3306-e20c-4a0b-a78d-148e52e6add0","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Jolansow SHG","isactive":"1","createdate":1758627079443,"updatedate":1758627079443}]
+2025-09-23 11:31:19,443 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:19,612 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:19,612 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:19,612 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"73a88187-14ea-4426-9ef6-5707948adb12","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Nyori Hote SHG","isactive":"1","createdate":1758627079612,"updatedate":1758627079612}]
+2025-09-23 11:31:19,612 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:19,745 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:19,745 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:19,745 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"1b59e2b3-a3ba-4725-835c-fa5ee51d2362","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Chetum Ane SHG","isactive":"1","createdate":1758627079745,"updatedate":1758627079745}]
+2025-09-23 11:31:19,745 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,112 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,112 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,112 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"852c0b81-77d0-492e-b50b-31ac48e828eb","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Pizirang Den SHG","isactive":"1","createdate":1758627080112,"updatedate":1758627080112}]
+2025-09-23 11:31:20,112 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,244 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,244 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,244 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"6a26b420-b237-4b13-9a22-11c9f0d12a7c","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Pejewa Den SHG","isactive":"1","createdate":1758627080244,"updatedate":1758627080244}]
+2025-09-23 11:31:20,244 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,393 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,393 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,393 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9c0f2a21-426e-4a4f-9403-a1070cb885fe","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Okum Apa SHG","isactive":"1","createdate":1758627080393,"updatedate":1758627080393}]
+2025-09-23 11:31:20,393 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,548 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,548 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,548 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"cd9b2e08-0226-410f-9f74-4feff71e0236","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Pakro Women SHG","isactive":"1","createdate":1758627080548,"updatedate":1758627080548}]
+2025-09-23 11:31:20,549 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,665 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,665 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,665 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"b2580774-fa1d-4539-b326-22d28ed7dfb8","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Seko SHG","isactive":"1","createdate":1758627080665,"updatedate":1758627080665}]
+2025-09-23 11:31:20,665 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,799 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,799 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,799 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5ab6ab4e-1bfb-4e9c-9501-02a0db76777f","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Youth Den SHG","isactive":"1","createdate":1758627080799,"updatedate":1758627080799}]
+2025-09-23 11:31:20,799 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,947 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,947 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,947 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7ffc080f-8c00-4032-812a-6491db6b848d","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke","type":"Organization","organization_name":"Pijirand Den SHG","isactive":"1","createdate":1758627080947,"updatedate":1758627080947}]
+2025-09-23 11:31:20,947 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:21,123 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:21,123 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:21,123 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"08972cec-2746-4a6c-a085-654c6a1651cd","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Pejewa SHG","isactive":"1","createdate":1758627081123,"updatedate":1758627081123}]
+2025-09-23 11:31:21,123 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:21,275 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:21,275 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:21,275 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7dc32ab4-8fd7-4c98-9683-795073640bbe","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Business Development","city":"Pakke","type":"Organization","organization_name":"Alphonsha SHG","isactive":"1","createdate":1758627081275,"updatedate":1758627081275}]
+2025-09-23 11:31:21,275 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:21,442 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:21,442 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:21,442 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"2a35f6e9-d5b3-42da-a19c-6166ea378178","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Pajerang SHG","isactive":"1","createdate":1758627081442,"updatedate":1758627081442}]
+2025-09-23 11:31:21,442 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:22,064 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:22,611 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:22,611 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"ca1e339e-1cab-409d-9d81-65a2ed9668ba","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Aming SHG","isactive":"1","createdate":1758627082611,"updatedate":1758627082611}]
+2025-09-23 11:31:22,611 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:22,776 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:22,776 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:22,776 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"48033c2b-bc03-4e1b-8ba7-6b957e033c2f","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Paho Women","isactive":"1","createdate":1758627082776,"updatedate":1758627082776}]
+2025-09-23 11:31:22,776 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:22,944 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:22,944 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:22,944 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"3791b9c1-2619-4aba-a6f6-d38d4c5da77f","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Taoso","type":"Organization","organization_name":"Sawtam Ajin","isactive":"1","createdate":1758627082944,"updatedate":1758627082944}]
+2025-09-23 11:31:22,944 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:23,191 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:23,193 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:23,193 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"512e296d-38f0-4158-9ef8-09684e3728ea","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Gichi Den","isactive":"1","createdate":1758627083193,"updatedate":1758627083193}]
+2025-09-23 11:31:23,193 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:23,393 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:23,393 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:23,393 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"e6078c03-2f4b-48cb-a435-79899edc0719","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Gichi Den","isactive":"1","createdate":1758627083393,"updatedate":1758627083393}]
+2025-09-23 11:31:23,393 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:23,576 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:23,576 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:23,576 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"d1b019ef-0646-4cc3-9f4f-bf27834c159d","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"East kameng pakke kessang","type":"Organization","organization_name":"Shilla fashion","isactive":"1","createdate":1758627083576,"updatedate":1758627083576}]
+2025-09-23 11:31:23,576 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:23,763 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:23,763 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:23,763 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"817fa35f-f7e7-4b5c-b053-9bc39d0125bf","state":"Meghalaya","district":"Ri Bhoi","department":"Department of Business Development","city":"Mawlong Nongtluh","type":"Organization","organization_name":"Iabeh shaphrang","isactive":"1","createdate":1758627083763,"updatedate":1758627083763}]
+2025-09-23 11:31:23,763 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:23,969 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:23,969 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:23,969 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"47303373-f410-403a-ab45-b0bb4663b9cc","state":"Meghalaya","district":"Ri Bhoi","department":"Department of Business Development","city":"Diwon Nongtluh","type":"Organization","organization_name":"Nongtluh Handloom Weavers and Multipurpose co-operative Society","isactive":"1","createdate":1758627083969,"updatedate":1758627083969}]
+2025-09-23 11:31:23,969 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:24,138 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:24,138 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:24,138 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5ee68d80-f733-4345-9991-37cb1dc3968c","state":"Meghalaya","district":"Ri Bhoi","department":"Department of Business Development","city":"SHILLONG","type":"Organization","organization_name":"KINIHO","isactive":"1","createdate":1758627084138,"updatedate":1758627084138}]
+2025-09-23 11:31:24,138 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:24,300 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:24,300 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:24,300 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9424e815-95eb-4f17-b6c3-c39b8ab924e3","state":"Tripura","district":"Dhalai","department":"Department of Advocacy, Consultancy & Projects","city":"Village","type":"Organization","organization_name":"Halahali Centre","isactive":"1","createdate":1758627084300,"updatedate":1758627084300}]
+2025-09-23 11:31:24,300 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:24,465 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:24,465 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:24,465 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"31c4f2b0-6b39-491f-afce-a5151928fe50","state":"Tripura","district":"Dhalai","department":"Department of Advocacy, Consultancy & Projects","city":"Village","type":"Organization","organization_name":"Sotodoltat shilpo","isactive":"1","createdate":1758627084465,"updatedate":1758627084465}]
+2025-09-23 11:31:24,465 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:24,625 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:24,625 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:24,625 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"498c1bef-15d9-485a-bb49-a775176ef1fb","state":"Nagaland","district":"Dimapur","department":"Department of Business Development","city":"Dimapur","type":"Organization","organization_name":"Jaojen Group","isactive":"1","createdate":1758627084625,"updatedate":1758627084625}]
+2025-09-23 11:31:24,625 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:24,779 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:24,779 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:24,779 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"09b56b28-3df2-40ae-b206-ed49fd8a69a4","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Naharlagun","type":"Organization","organization_name":"Sheela Fashion","isactive":"1","createdate":1758627084779,"updatedate":1758627084779}]
+2025-09-23 11:31:24,779 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:24,932 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:24,932 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:24,932 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9f431e5c-fa61-4d9b-98fb-ed9d90603b6e","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Kimin","type":"Organization","organization_name":"Parte Dene Cooperative society","isactive":"1","createdate":1758627084932,"updatedate":1758627084932}]
+2025-09-23 11:31:24,932 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:25,131 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:25,131 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:25,131 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"302f77e0-e79c-4ec5-a67e-227881c08db8","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Kimin","type":"Organization","organization_name":"Deep Den SHG","isactive":"1","createdate":1758627085131,"updatedate":1758627085131}]
+2025-09-23 11:31:25,131 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:25,263 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:25,263 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:25,263 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"4d48e99e-089b-49b3-845c-cbea6782a3eb","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Yupia","type":"Organization","organization_name":"Aka Creation","isactive":"1","createdate":1758627085263,"updatedate":1758627085263}]
+2025-09-23 11:31:25,263 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:25,402 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:25,402 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:25,402 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"a54602ab-eba0-4d99-9bcd-d7a1faf6ee67","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Doimukh","type":"Organization","organization_name":"Lower Emchi SHG","isactive":"1","createdate":1758627085402,"updatedate":1758627085402}]
+2025-09-23 11:31:25,402 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:25,562 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:25,562 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:25,562 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"699111ef-1b57-458b-9eb9-2361fc0c927b","state":"Arunachal Pradesh","district":"West Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Bomdila","type":"Organization","organization_name":"Department of textile and handicrafts, bomdila","isactive":"1","createdate":1758627085562,"updatedate":1758627085562}]
+2025-09-23 11:31:25,562 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:25,713 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:25,713 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:25,713 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"eff598dc-ce64-4314-8176-99d56b24ed05","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Banderdewa","type":"Organization","organization_name":"Mangder SHG","isactive":"1","createdate":1758627085713,"updatedate":1758627085713}]
+2025-09-23 11:31:25,713 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:25,849 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:25,849 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:25,849 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7e56a85c-53ae-4b13-8ce1-9eff6b1d7e83","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Banderdewa","type":"Organization","organization_name":"Kapa Kalu SHG","isactive":"1","createdate":1758627085849,"updatedate":1758627085849}]
+2025-09-23 11:31:25,849 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,014 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,014 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,014 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"4fd9a4a2-3bd4-4372-a4b4-dc5e7c25ff36","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Banderdewa","type":"Organization","organization_name":"Mangkum Dene","isactive":"1","createdate":1758627086014,"updatedate":1758627086014}]
+2025-09-23 11:31:26,014 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,144 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,144 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,144 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"27925cf9-5e33-4441-a70b-c6a49ddafa9d","state":"Manipur","district":"Bishnupur","department":"Department of Advocacy, Consultancy & Projects","city":"Moirang","type":"Organization","organization_name":"The Renu Handloom","isactive":"1","createdate":1758627086144,"updatedate":1758627086144}]
+2025-09-23 11:31:26,144 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,282 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,282 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,282 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"fb91cdc7-e0c2-4f57-b0ee-18de9eb3cd86","state":"Manipur","district":"Bishnupur","department":"Department of Advocacy, Consultancy & Projects","city":"Bishnupur","type":"Organization","organization_name":"The Renu Handloom","isactive":"1","createdate":1758627086282,"updatedate":1758627086282}]
+2025-09-23 11:31:26,282 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,425 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,425 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,425 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"82c01219-dbef-4ae1-a09e-1ff3a167cc9a","state":"Manipur","district":"Senapati","department":"Department of Advocacy, Consultancy & Projects","city":"Senapati","type":"Organization","organization_name":"The Renu Handloom","isactive":"1","createdate":1758627086425,"updatedate":1758627086425}]
+2025-09-23 11:31:26,425 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,594 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,594 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,594 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"f0d7ac2b-a0fa-47b3-b69d-e420dbfff45d","state":"Manipur","district":"Imphal West","department":"Department of Advocacy, Consultancy & Projects","city":"Imphal West","type":"Organization","organization_name":"The Renu Handloom","isactive":"1","createdate":1758627086594,"updatedate":1758627086594}]
+2025-09-23 11:31:26,594 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,742 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,750 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,750 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9e692b20-1393-42cc-a66d-168fc21b1f25","state":"Manipur","district":"Senapati","department":"Department of Advocacy, Consultancy & Projects","city":"Imphal West","type":"Organization","organization_name":"The Renu Handloom","isactive":"1","createdate":1758627086750,"updatedate":1758627086750}]
+2025-09-23 11:31:26,750 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,886 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,886 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,886 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"fd7c9e64-b5e5-43d1-ba6e-9087672d2a5e","state":"Manipur","district":"Senapati","department":"Department of Advocacy, Consultancy & Projects","city":"Senapati","type":"Organization","organization_name":"ASHU HANDLOOM WEAVER COOPERATIVE SOCIETY","isactive":"1","createdate":1758627086886,"updatedate":1758627086886}]
+2025-09-23 11:31:26,886 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:27,180 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:27,180 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:27,180 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"bed75c23-881b-4a3c-93f8-a0ea2432b4ff","state":"Manipur","district":"Senapati","department":"Department of Advocacy, Consultancy & Projects","city":"Tamenglony","type":"Organization","organization_name":"ASHU HANDLOOM WEAVER COOPERATIVE SOCIETY","isactive":"1","createdate":1758627087180,"updatedate":1758627087180}]
+2025-09-23 11:31:27,180 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:27,335 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:27,335 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:27,335 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"f7f8ebd2-86be-4cfb-9901-c65c659dfc2d","state":"Manipur","district":"Senapati","department":"Department of Advocacy, Consultancy & Projects","city":"Senapati","type":"Organization","organization_name":"Purba Golajhar Somobay somity","isactive":"1","createdate":1758627087335,"updatedate":1758627087335}]
+2025-09-23 11:31:27,335 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:27,495 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:27,500 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:27,500 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"6c22870b-d7e6-4728-8b2d-800958b6405b","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"Prativa Silk","isactive":"1","createdate":1758627087500,"updatedate":1758627087500}]
+2025-09-23 11:31:27,500 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:27,646 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:27,646 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:27,646 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"88eaa5c8-188d-4f40-a74e-979bd8a4f7a8","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Bengapara","type":"Organization","organization_name":"Prativa Silk","isactive":"1","createdate":1758627087646,"updatedate":1758627087646}]
+2025-09-23 11:31:27,646 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:27,793 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:27,796 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:27,796 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"39c28f3e-6b08-46d2-99e1-f2418034393a","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"Hiyashree Silkalay ","isactive":"1","createdate":1758627087796,"updatedate":1758627087796}]
+2025-09-23 11:31:27,796 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:27,952 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:27,952 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:27,952 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"84662ab6-888d-4796-9db7-c0c7fdb58bf4","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"Nirmali Pat Mugha Udyog","isactive":"1","createdate":1758627087952,"updatedate":1758627087952}]
+2025-09-23 11:31:27,953 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:28,085 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:28,085 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:28,085 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"0aa636c8-6115-4022-9868-e1bdff33d459","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"BHAI BHAI XAL GHAR","isactive":"1","createdate":1758627088085,"updatedate":1758627088085}]
+2025-09-23 11:31:28,085 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:28,228 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:28,228 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:28,228 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"c640370a-1531-4e5a-80e1-e43510a1b24c","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Namati","type":"Organization","organization_name":"BHAI BHAI XAL GHAR","isactive":"1","createdate":1758627088228,"updatedate":1758627088228}]
+2025-09-23 11:31:28,228 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:28,394 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:28,394 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:28,394 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5aabd001-a97f-4a4b-b710-cee29981b627","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Goraimari","type":"Organization","organization_name":"UNMANA PAT MUGA UDYOG","isactive":"1","createdate":1758627088394,"updatedate":1758627088394}]
+2025-09-23 11:31:28,396 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:28,560 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:28,563 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:28,563 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"d4942268-bee7-4f56-b714-2045ff9c5c36","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Byaskuchi ","type":"Organization","organization_name":"UNMANA PAT MUGA UDYOG","isactive":"1","createdate":1758627088563,"updatedate":1758627088563}]
+2025-09-23 11:31:28,563 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:28,730 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:28,730 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:28,730 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"fe72421b-d0a4-46bd-ac0f-b39374ca510c","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"UNMANA PAT MUGA UDYOG","isactive":"1","createdate":1758627088730,"updatedate":1758627088730}]
+2025-09-23 11:31:28,730 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:28,879 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:28,879 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:28,879 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"ba88cda6-5e7d-440d-9947-e1d38724accf","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"BABA GANESH SILK INDUSTRY","isactive":"1","createdate":1758627088879,"updatedate":1758627088879}]
+2025-09-23 11:31:28,879 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:29,048 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:29,048 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:29,048 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"c7585a61-e8c4-46b0-8829-d1ad96cf7f06","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"RADHE SILK  UDYOG","isactive":"1","createdate":1758627089048,"updatedate":1758627089048}]
+2025-09-23 11:31:29,048 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:29,210 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:29,210 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:29,210 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"f11443c3-d49f-4712-ba07-fb269ec75840","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"PRANJIT  SILK  UDYOG","isactive":"1","createdate":1758627089210,"updatedate":1758627089210}]
+2025-09-23 11:31:29,210 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:29,428 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:29,428 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:29,428 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"74d62267-8562-448b-a965-6bdc87999799","state":"Assam","district":"Dibrugarh","department":"Department of Livelihood and Entrepreneurship","city":"Dibrugarh","type":"Organization","organization_name":"Sankalpa Handloom","isactive":"1","createdate":1758627089428,"updatedate":1758627089428}]
+2025-09-23 11:31:29,428 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:29,575 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:29,575 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:29,575 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"b9db2f75-da68-4202-964b-fb519c3518a2","state":"Assam","district":"Dibrugarh","department":"Department of Livelihood and Entrepreneurship","city":"Dibrugarh","type":"Organization","organization_name":"HAJPAR","isactive":"1","createdate":1758627089575,"updatedate":1758627089575}]
+2025-09-23 11:31:29,575 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:29,727 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:29,727 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:29,727 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"fef42502-0a9d-4ffd-995a-690c8ef06330","state":"Assam","district":"Dhemaji","department":"Department of Livelihood and Entrepreneurship","city":"Chowkham No1Pahukhowa, po- Machkwa","type":"Organization","organization_name":"Indeswar's Handloom","isactive":"1","createdate":1758627089727,"updatedate":1758627089727}]
+2025-09-23 11:31:29,727 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:29,896 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:29,896 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:29,896 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"15c74295-2983-43be-9687-4b2e08150135","state":"Assam","district":"Dhemaji","department":"Department of Livelihood and Entrepreneurship","city":"Chowkham No1Pahukhowa, po- Machkwa","type":"Organization","organization_name":"Bishwajyoti's Handloom","isactive":"1","createdate":1758627089896,"updatedate":1758627089896}]
+2025-09-23 11:31:29,896 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:30,056 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:30,056 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:30,056 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"a800ad2e-014f-4d63-826a-e77e931311a8","state":"Assam","district":"Udalguri","department":"Department of Business Development","city":"Niz Mugalbecha","type":"Organization","organization_name":"KKiran Foundation","isactive":"1","createdate":1758627090056,"updatedate":1758627090056}]
+2025-09-23 11:31:30,056 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:30,194 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:30,195 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:30,195 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"22b6e28e-af3c-40b4-8a87-4538fd2cb352","state":"Assam","district":"Udalguri","department":"Department of Business Development","city":"Niz Mugalbecha","type":"Organization","organization_name":"KKiran Foundation","isactive":"1","createdate":1758627090195,"updatedate":1758627090195}]
+2025-09-23 11:31:30,195 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:30,351 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:30,351 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:30,351 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"4f6a46e2-8bcf-46c6-818e-9a095b93861b","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Pub Khagrabari","type":"Organization","organization_name":"DIPIKA WEAVING, JALAH, BAKSA","isactive":"1","createdate":1758627090351,"updatedate":1758627090351}]
+2025-09-23 11:31:30,351 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:30,501 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:30,501 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:30,501 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"3ef8af86-6d9f-4ad5-a987-4bb2a0871d1e","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Pub Khagrabari","type":"Organization","organization_name":"RANJIT SILK EMPORIUM","isactive":"1","createdate":1758627090501,"updatedate":1758627090501}]
+2025-09-23 11:31:30,501 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:30,684 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:30,684 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:30,684 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9caa1eb2-1365-4067-aac8-b2dff8bee2a2","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Dongpar","type":"Organization","organization_name":"BOWA KATA SAMABAY SAMITEE LTD","isactive":"1","createdate":1758627090684,"updatedate":1758627090684}]
+2025-09-23 11:31:30,684 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:30,847 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:30,847 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:30,847 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"97df58b1-e626-481c-b9ba-911faf103156","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Majarabari","type":"Organization","organization_name":"Manas Weavers Cooperative Society Limited","isactive":"1","createdate":1758627090847,"updatedate":1758627090847}]
+2025-09-23 11:31:30,847 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,012 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,012 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,012 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"4d93d641-de63-44a1-8eb8-bb34f038c301","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Saudarvitha","type":"Organization","organization_name":"ANJANA WEAVING, SAUDARVITHA, BAKSA","isactive":"1","createdate":1758627091012,"updatedate":1758627091012}]
+2025-09-23 11:31:31,012 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,159 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,159 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,159 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"e676dd4e-8bab-46a8-aae1-bc488948effd","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Dubi","type":"Organization","organization_name":"RANJIT SILK EMPORIUM","isactive":"1","createdate":1758627091159,"updatedate":1758627091159}]
+2025-09-23 11:31:31,159 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,298 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,298 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,298 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"558c926c-8a3e-4b54-8c38-9b170c7ff163","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Bhethua","type":"Organization","organization_name":"M/S ROY WEAVING UDYOG","isactive":"1","createdate":1758627091298,"updatedate":1758627091298}]
+2025-09-23 11:31:31,298 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,446 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,446 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,446 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9a828bd0-4a2f-4ba5-b1b7-96ca02139ad9","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Puthimari","type":"Organization","organization_name":"CHANDAN TAT GHAR , PUTHIMARI","isactive":"1","createdate":1758627091446,"updatedate":1758627091446}]
+2025-09-23 11:31:31,446 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,610 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,610 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,610 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"46a5949c-f8ac-45a5-9a12-bf25fda8dcf7","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Rajaghat","type":"Organization","organization_name":"M/S DAS WEAVING","isactive":"1","createdate":1758627091610,"updatedate":1758627091610}]
+2025-09-23 11:31:31,610 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,758 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,758 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,758 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"ab090c31-780a-4dd9-8e90-41144a13de50","state":"Assam","district":"Dhemaji","department":"Department of Livelihood and Entrepreneurship","city":"Borpak jiamoria, po- Machkhowa","type":"Organization","organization_name":"Mahanta Silk House 1","isactive":"1","createdate":1758627091758,"updatedate":1758627091758}]
+2025-09-23 11:31:31,758 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,943 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,943 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,943 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5de82cc7-4ce2-47a6-b388-49754ec49414","state":"Assam","district":"Dhemaji","department":"Department of Livelihood and Entrepreneurship","city":"Borpak jiamoria, po- Machkhowa","type":"Organization","organization_name":"Mahanta Silk House 2","isactive":"1","createdate":1758627091943,"updatedate":1758627091943}]
+2025-09-23 11:31:31,943 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:32,092 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:32,092 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:32,092 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7877dd5f-4dc4-42cf-bd6f-79dcc0b50a97","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Tamulpur","type":"Organization","organization_name":"Rukmini Ishanshali ","isactive":"1","createdate":1758627092092,"updatedate":1758627092092}]
+2025-09-23 11:31:32,092 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:32,291 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:32,291 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:32,291 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5ab444f7-f527-4660-9621-10020f7db52e","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Goreswar","type":"Organization","organization_name":"Pintu Weaving Industry ","isactive":"1","createdate":1758627092291,"updatedate":1758627092291}]
+2025-09-23 11:31:32,291 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:32,610 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:32,610 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:32,610 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"246916a3-dfb3-44f9-a0a0-d7a966027117","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Tamulpur","type":"Organization","organization_name":"Tripti Boro Industry ","isactive":"1","createdate":1758627092610,"updatedate":1758627092610}]
+2025-09-23 11:31:32,610 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:32,795 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:32,795 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:32,795 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"41e1edc8-e76d-40f4-acb9-d51c15b433e8","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Tamulpur","type":"Organization","organization_name":"Dipa Silk Industry ","isactive":"1","createdate":1758627092795,"updatedate":1758627092795}]
+2025-09-23 11:31:32,795 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:32,954 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:32,970 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:32,970 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"4cb20636-81d2-4128-a0f7-64b169363242","state":"Assam","district":"Nalbari","department":"Department of Business Development","city":"Gharuabaha","type":"Organization","organization_name":"Har Parbati Silk House","isactive":"1","createdate":1758627092970,"updatedate":1758627092970}]
+2025-09-23 11:31:32,970 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:33,142 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:33,142 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:33,142 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"c920f5eb-4235-47fc-9cb3-d66dea463ec3","state":"Assam","district":"Udalguri","department":"Department of Business Development","city":"Purani Garaibari","type":"Organization","organization_name":"Mainaoshree Weaving Industry ","isactive":"1","createdate":1758627093142,"updatedate":1758627093142}]
+2025-09-23 11:31:33,142 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:33,424 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:33,424 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:33,424 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"0fdd26da-6d86-47f8-9dd6-a2be037f78f2","state":"Assam","district":"Udalguri","department":"Department of Business Development","city":"Udalguri ward no 1","type":"Organization","organization_name":"Rodali BKSS LTD","isactive":"1","createdate":1758627093424,"updatedate":1758627093424}]
+2025-09-23 11:31:33,424 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:33,578 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:33,578 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:33,578 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"cc8e7f7f-1dc8-48f3-a6f9-786b9a2bfe24","state":"Assam","district":"Udalguri","department":"Department of Business Development","city":"Udalguri ward no 1","type":"Organization","organization_name":"Rebari Decorative Weaving ","isactive":"1","createdate":1758627093578,"updatedate":1758627093578}]
+2025-09-23 11:31:33,578 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:33,757 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:33,757 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:33,757 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"e082a8e1-8fcd-460a-b2b7-952926761ca6","state":"Assam","district":"Udalguri","department":"Department of Business Development","city":"Chutiapara","type":"Organization","organization_name":"M/S Rupali Weaving Enterprise","isactive":"1","createdate":1758627093757,"updatedate":1758627093757}]
+2025-09-23 11:31:33,757 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:34,036 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:34,036 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:34,036 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7f4b7b33-b475-49ce-809d-4b37ee90097c","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Mushalpur","type":"Organization","organization_name":"Rangjali Handloom Industry ","isactive":"1","createdate":1758627094036,"updatedate":1758627094036}]
+2025-09-23 11:31:34,036 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:34,258 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:34,259 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:34,259 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"eec67db7-95ab-4d85-a6a8-3dff309ef78f","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Mushalpur","type":"Organization","organization_name":"Krishna Industry ","isactive":"1","createdate":1758627094259,"updatedate":1758627094259}]
+2025-09-23 11:31:34,259 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:34,424 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:34,424 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:34,424 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"3080395e-307a-4493-b1c7-6213735b447b","state":"Assam","district":"Tinsukia","department":"Department of Livelihood and Entrepreneurship","city":"Tinsukia","type":"Organization","organization_name":"Triveni Bayan Silpa","isactive":"1","createdate":1758627094424,"updatedate":1758627094424}]
+2025-09-23 11:31:34,424 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:34,610 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:34,610 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:34,610 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"e64047d0-c549-480e-80c0-42e7db1d3d62","state":"Assam","district":"Tinsukia","department":"Department of Livelihood and Entrepreneurship","city":"Tinsukia","type":"Organization","organization_name":"KAKOPATHER MAHILA B.K.S.S LTD","isactive":"1","createdate":1758627094610,"updatedate":1758627094610}]
+2025-09-23 11:31:34,610 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:34,759 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:34,759 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:34,759 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"61511254-2204-41f5-a28f-a67cfe54a3d8","state":"Assam","district":"Tinsukia","department":"Department of Livelihood and Entrepreneurship","city":"Tinsukia","type":"Organization","organization_name":"BORSHA ENTERPRISES","isactive":"1","createdate":1758627094759,"updatedate":1758627094759}]
+2025-09-23 11:31:34,759 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:34,907 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:34,907 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:34,907 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"022cb786-9d5c-4a92-b75e-b758ac0edbd3","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Kokrajhar","type":"Organization","organization_name":"Sijou Weaving","isactive":"1","createdate":1758627094907,"updatedate":1758627094907}]
+2025-09-23 11:31:34,907 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:35,061 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:35,061 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:35,061 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"de3401eb-d55a-4dc1-8b58-cc45cdb69fa8","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Kokrajhar","type":"Organization","organization_name":"Lophai Shanshali","isactive":"1","createdate":1758627095061,"updatedate":1758627095061}]
+2025-09-23 11:31:35,061 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:35,224 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:35,224 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:35,225 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"6c380650-d54d-406b-85a4-7c1d97e891b5","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Kokrajhar","type":"Organization","organization_name":"Raha Weaving Centre ","isactive":"1","createdate":1758627095224,"updatedate":1758627095224}]
+2025-09-23 11:31:35,225 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:35,486 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:35,486 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:35,486 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"89b71e1a-afad-4875-b85c-5ba93048f9c6","state":"Arunachal Pradesh","district":"East Siang","department":"Department of Livelihood and Entrepreneurship","city":"Oyan","type":"Organization","organization_name":"MG COMMUNITY","isactive":"1","createdate":1758627095486,"updatedate":1758627095486}]
+2025-09-23 11:31:35,486 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:35,645 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:35,645 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:35,645 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"01a16276-1773-4ec6-aa4b-9f6bc4d32c24","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Gossaigaon","type":"Organization","organization_name":"F&F Clothing","isactive":"1","createdate":1758627095645,"updatedate":1758627095645}]
+2025-09-23 11:31:35,645 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:35,804 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:35,804 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:35,804 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5bad114a-d241-4147-a4b2-784cbe784865","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Mainaopuri","type":"Organization","organization_name":"MAINAO Enterprise ","isactive":"1","createdate":1758627095804,"updatedate":1758627095804}]
+2025-09-23 11:31:35,804 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:35,962 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:35,962 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:35,962 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"eefdbf1c-c180-46b1-85d3-0eed4f319e42","state":"Assam","district":"Kamrup","department":"Department of Business Development","city":"Rangia","type":"Organization","organization_name":"MANDAR HANDLOOM","isactive":"1","createdate":1758627095962,"updatedate":1758627095962}]
+2025-09-23 11:31:35,962 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:36,107 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:36,107 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:36,107 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"dcf7b8cd-282e-4d23-9efb-fa073b3c20a2","state":"Assam","district":"Kamrup Metropolitan","department":"Department of Livelihood and Entrepreneurship","city":"Guwahati","type":"Organization","organization_name":"MEGHALI'S SILK","isactive":"1","createdate":1758627096107,"updatedate":1758627096107}]
+2025-09-23 11:31:36,107 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:36,258 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:36,259 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:36,259 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"a6812b8e-d519-410d-b820-84038adb08f5","state":"Assam","district":"Sivasagar","department":"Department of Livelihood and Entrepreneurship","city":"Sivasagar","type":"Organization","organization_name":"Pallabi Dutta","isactive":"1","createdate":1758627096259,"updatedate":1758627096259}]
+2025-09-23 11:31:36,259 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:36,399 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:36,399 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:36,399 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"3d5c3ce0-5384-40bb-bb80-57e823e8c9df","state":"Assam","district":"Sivasagar","department":"Department of Livelihood and Entrepreneurship","city":"Sivasagar","type":"Organization","organization_name":"Krishna Dutta","isactive":"1","createdate":1758627096399,"updatedate":1758627096399}]
+2025-09-23 11:31:36,399 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:36,544 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:36,544 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:36,544 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"19790c8e-01a9-4855-9f70-05b5cf2c9ae0","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Moi aru Muga PVT LTD","isactive":"1","createdate":1758627096544,"updatedate":1758627096544}]
+2025-09-23 11:31:36,544 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:36,700 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:36,700 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:36,700 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"177c7979-057a-4138-95be-0b44f7ad4991","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Sarah Fashion","isactive":"1","createdate":1758627096700,"updatedate":1758627096700}]
+2025-09-23 11:31:36,700 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:36,843 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:36,843 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:36,843 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"352af206-6468-44ad-884b-31d376517bf7","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Purabi Industries","isactive":"1","createdate":1758627096843,"updatedate":1758627096843}]
+2025-09-23 11:31:36,843 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:37,112 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:37,125 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:37,125 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"654f7b03-d7fe-4619-be99-811762220a4e","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"A n D Sales","isactive":"1","createdate":1758627097125,"updatedate":1758627097125}]
+2025-09-23 11:31:37,125 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:37,324 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:37,324 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:37,325 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"c903ee2a-2b67-4ea0-9ebb-16d721555152","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Bodoland Silk Center","isactive":"1","createdate":1758627097324,"updatedate":1758627097324}]
+2025-09-23 11:31:37,325 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:37,461 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:37,461 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:37,461 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"f7e89725-7f47-495c-8709-0eb5e287058c","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Alakananda Naturales","isactive":"1","createdate":1758627097461,"updatedate":1758627097461}]
+2025-09-23 11:31:37,461 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:37,610 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:37,610 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:37,610 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"2c78c203-5bb9-463b-be42-2539665a2618","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Weavers Collective Producer Company LTD","isactive":"1","createdate":1758627097610,"updatedate":1758627097610}]
+2025-09-23 11:31:37,610 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:37,757 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:37,757 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:37,757 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"61bb9670-f8c1-416d-bd9a-7248fb8ad1c4","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"RIMJHIM BASTRAA","isactive":"1","createdate":1758627097757,"updatedate":1758627097757}]
+2025-09-23 11:31:37,757 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:37,907 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:37,907 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:37,907 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"398e4807-1c36-4b67-83c2-19d83d20f3b1","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Paul Handloom Industry","isactive":"1","createdate":1758627097907,"updatedate":1758627097907}]
+2025-09-23 11:31:37,907 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,058 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,058 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,058 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"b0945e5b-bb9e-449d-b1f2-575238f68ceb","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Sabitri Brahma Handloom and Weaving Industry","isactive":"1","createdate":1758627098058,"updatedate":1758627098058}]
+2025-09-23 11:31:38,058 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,208 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,208 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,208 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"61a83f91-92a7-4405-a2d5-a27fe26d25e4","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Integrated Textile Park","isactive":"1","createdate":1758627098208,"updatedate":1758627098208}]
+2025-09-23 11:31:38,208 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,379 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,379 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,379 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"ef38ea48-ab63-464d-a687-e81695467273","state":"Assam","district":"Nagaon","department":"Department of Livelihood and Entrepreneurship","city":"Najan, PO- Kuthari","type":"Organization","organization_name":"Lahe Looms ","isactive":"1","createdate":1758627098379,"updatedate":1758627098379}]
+2025-09-23 11:31:38,379 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,541 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,541 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,541 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5fb6557c-2a9b-4ed4-bad9-d57497234ace","state":"Assam","district":"Nagaon","department":"Department of Livelihood and Entrepreneurship","city":"Najan, PO- Kuthari","type":"Organization","organization_name":"Lahe Looms","isactive":"1","createdate":1758627098541,"updatedate":1758627098541}]
+2025-09-23 11:31:38,541 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,692 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,692 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,692 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"cf2d2638-1cbd-4840-913e-b0482398d362","state":"Assam","district":"Nagaon","department":"Department of Livelihood and Entrepreneurship","city":"Najan, PO-Kuthan","type":"Organization","organization_name":"Lahe Looms","isactive":"1","createdate":1758627098692,"updatedate":1758627098692}]
+2025-09-23 11:31:38,692 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,828 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,828 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,828 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"a3735aa4-ce33-4201-a86d-61b23aef33ad","state":"Assam","district":"Kamrup","department":"Department of Business Development","city":"AZARA","type":"Organization","organization_name":"AVA Creations","isactive":"1","createdate":1758627098828,"updatedate":1758627098828}]
+2025-09-23 11:31:38,828 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,987 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,987 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,987 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"e75da2fc-f9e9-427d-b725-038a5f15da14","state":"Assam","district":"Kamrup","department":"Department of Business Development","city":"MATIA PAHAR","type":"Organization","organization_name":"AVA Creations","isactive":"1","createdate":1758627098987,"updatedate":1758627098987}]
+2025-09-23 11:31:38,987 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:39,129 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:39,129 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:39,129 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5ce9737d-33ab-4150-b7f1-64df9e07e98a","state":"Assam","district":"Sivasagar","department":"Department of Business Development","city":"Aila Habi Village","type":"Organization","organization_name":"Nirmanam Producer Company Limited","isactive":"1","createdate":1758627099129,"updatedate":1758627099129}]
+2025-09-23 11:31:39,129 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:39,290 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:39,290 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:39,290 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7f3b0692-eace-4d1d-9b05-06b2a147a3e7","state":"Manipur","district":"Thoubal","department":"Department of Advocacy, Consultancy & Projects","city":"Yairipok","type":"Organization","organization_name":"M/S Sanatampha","isactive":"1","createdate":1758627099290,"updatedate":1758627099290}]
+2025-09-23 11:31:39,290 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:39,459 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:39,459 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:39,459 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"ae986f06-ec0b-4427-90e5-d1e4a593d8ca","state":"Manipur","district":"Thoubal","department":"Department of Business development","city":"Kakching","type":"Organization","organization_name":"THE NANDARANI H/L & H/C CS.LTD.","isactive":"1","createdate":1758627099459,"updatedate":1758627099459}]
+2025-09-23 11:31:39,459 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:39,591 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:39,591 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:39,591 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"8ff3ed2b-4843-4db5-be47-b83612051026","state":"Mizoram","district":"Aizawl","department":"Department of Business Development","city":"Aizawl","type":"Organization","organization_name":" Lap r Studio","isactive":"1","createdate":1758627099591,"updatedate":1758627099591}]
+2025-09-23 11:31:39,591 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:39,748 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:39,757 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:39,757 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"83ecb08a-1766-44b8-827f-9d6d14875d26","state":"Meghalaya","district":"Ri Bhoi","department":"Department of Business Development","city":"Ri-Bhoi","type":"Organization","organization_name":"Ahi Arsem","isactive":"1","createdate":1758627099757,"updatedate":1758627099757}]
+2025-09-23 11:31:39,757 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:39,907 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:39,907 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:39,907 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"6ff6d710-e9b0-42da-8de3-3325d4ecaaab","state":"Mizoram","district":"Aizawl","department":"Department of Business Development","city":"Aizawl","type":"Organization","organization_name":" Mizo Handloom","isactive":"1","createdate":1758627099907,"updatedate":1758627099907}]
+2025-09-23 11:31:39,907 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:40,191 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:40,192 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:40,192 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"1400f5ac-1ffe-4f4a-a4f6-c102af6df217","state":"Assam","district":"Kamrup Metropolitan","department":"Department of Business Development","city":"Guwahati","type":"Organization","organization_name":"Sereki Industries","isactive":"1","createdate":1758627100192,"updatedate":1758627100192}]
+2025-09-23 11:31:40,192 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:40,337 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:40,337 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:40,337 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"cd5dc196-48ef-422a-987c-db1d57fdf89d","state":"Nagaland","district":"Dimapur","department":"Department of Business Development","city":"Dimapur","type":"Organization","organization_name":"Proprietorship","isactive":"1","createdate":1758627100337,"updatedate":1758627100337}]
+2025-09-23 11:31:40,337 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:40,492 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:40,492 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:40,492 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"6f123d66-b129-4070-9cee-53db62ade7e8","state":"Manipur","district":"Imphal West","department":"Department of Business development","city":"Imphal West","type":"Organization","organization_name":"Natural Textile Collection","isactive":"1","createdate":1758627100492,"updatedate":1758627100492}]
+2025-09-23 11:31:40,492 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:40,629 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:40,629 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:40,629 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"db874b68-b678-4a0f-b6b4-7ffb802e04a6","state":"Assam","district":"Kamrup Metropolitan","department":"Department of Business Development","city":"sonapur","type":"Organization","organization_name":"PORIS AVARAN","isactive":"1","createdate":1758627100629,"updatedate":1758627100629}]
+2025-09-23 11:31:40,629 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:40,775 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:40,775 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:40,775 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"743075d6-da8c-47cf-96f9-c7709d2bbc81","state":"Assam","district":"Kamrup Metropolitan","department":"Department of Livelihood and Entrepreneurship","city":"Guwahati","type":"Organization","organization_name":"MEET ME INDUSTRY","isactive":"1","createdate":1758627100775,"updatedate":1758627100775}]
+2025-09-23 11:31:40,775 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:40,926 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:40,926 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:40,926 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"c7c8718e-57eb-40ee-a207-bb1dd0e98e25","state":"Assam","district":"Kamrup Metropolitan","department":"Department of Livelihood and Entrepreneurship","city":"Guwahati","type":"Organization","organization_name":"ART & CRAFT GOLDEN THREAD","isactive":"1","createdate":1758627100926,"updatedate":1758627100926}]
+2025-09-23 11:31:40,926 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:41,093 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:41,093 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:41,093 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"23933008-8dce-4fda-984b-48bb997efa51","state":"Assam","district":"Nagaon","department":"Department of Business Development","city":"Raha","type":"Organization","organization_name":"The Fine Craft","isactive":"1","createdate":1758627101093,"updatedate":1758627101093}]
+2025-09-23 11:31:41,093 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:41,243 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:41,243 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:41,243 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"e5f1b6a6-e870-4115-bcff-821295327222","state":"Assam","district":"Nagaon","department":"Department of Advocacy, Consultancy & Projects","city":"Raha","type":"Organization","organization_name":"The Fine Craft","isactive":"1","createdate":1758627101243,"updatedate":1758627101243}]
+2025-09-23 11:31:41,244 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:41,375 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:16,382 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:16,424 [7] INFO FlureeCS - query :{"select": ["*"],"from": "organization"}
+2025-09-23 11:31:16,506 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:16,786 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:17,226 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:17,226 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"8d787f4f-cd48-4b37-aa61-960dab08d10e","state":"Meghalaya","district":"North Garo Hills","department":"Department of Business Development","city":"","type":"Own","organization_name":"","isactive":"1","createdate":1758627077226,"updatedate":1758627077226}]
+2025-09-23 11:31:17,226 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:17,405 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:17,405 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:17,405 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"0d39d8a5-9c66-466f-806f-1ba663afbfcb","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Gendrabil","type":"Organization","organization_name":"Sijou Weaving","isactive":"1","createdate":1758627077405,"updatedate":1758627077405}]
+2025-09-23 11:31:17,405 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:17,560 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:17,560 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:17,560 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"472974b0-4bee-4bea-9ec1-b739a2b5966f","state":"Nagaland","district":"Dimapur","department":"Department of Business Development","city":"Burma Camp","type":"Own","organization_name":"Jaojen Group","isactive":"1","createdate":1758627077560,"updatedate":1758627077560}]
+2025-09-23 11:31:17,560 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:17,719 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:17,719 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:17,724 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7e10b259-0458-409d-8378-e1fe0ace9762","state":"Mizoram","district":"Champhai","department":"Department of Business Development","city":"","type":"Own","organization_name":"","isactive":"1","createdate":1758627077719,"updatedate":1758627077719}]
+2025-09-23 11:31:17,724 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:18,172 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:18,172 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:18,172 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"02dbb36d-c2ea-463e-a111-5e1f7e450d86","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Hathimatha","type":"Own","organization_name":"Bala Brahma","isactive":"1","createdate":1758627078172,"updatedate":1758627078172}]
+2025-09-23 11:31:18,172 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:18,319 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:18,319 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:18,319 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"a0beb64f-3a18-4165-8378-563739d002bd","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Ranighuli","type":"Own","organization_name":"Bala Brahma","isactive":"1","createdate":1758627078319,"updatedate":1758627078319}]
+2025-09-23 11:31:18,319 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:18,474 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:18,474 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:18,474 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9912c2c3-95d8-436e-9150-b084d9aeec09","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Maurigaon Pt l","type":"Own","organization_name":"Bala Brahma","isactive":"1","createdate":1758627078474,"updatedate":1758627078474}]
+2025-09-23 11:31:18,474 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:18,609 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:18,609 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:18,609 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"b2daf943-d808-4ba0-a4fc-66f2355979ff","state":"Assam","district":"Dibrugarh","department":"Department of Livelihood and Entrepreneurship","city":"Duliajan","type":"Organization","organization_name":"Centre of Excellence","isactive":"1","createdate":1758627078609,"updatedate":1758627078609}]
+2025-09-23 11:31:18,609 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:18,742 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:18,742 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:18,742 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9b0aed51-415f-4ff2-b95d-14f1d40c241a","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Tayeng Tarang","type":"Organization","organization_name":"H.O.P.E. FOUNDATION","isactive":"1","createdate":1758627078742,"updatedate":1758627078742}]
+2025-09-23 11:31:18,742 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:18,914 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:18,914 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:18,914 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"56e4b388-bc5f-462d-9323-933efffdbc01","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Naharlagun","type":"Organization","organization_name":"Jenier Weaver Cooperative Society","isactive":"1","createdate":1758627078914,"updatedate":1758627078914}]
+2025-09-23 11:31:18,914 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:19,112 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:19,112 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:19,112 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"6dbc9707-28a6-4adc-9fa7-94b4ef53fa6e","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Ane Chuniya SHG","isactive":"1","createdate":1758627079112,"updatedate":1758627079112}]
+2025-09-23 11:31:19,112 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:19,280 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:19,280 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:19,280 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"394f69f7-2a94-42dd-9d8d-ebb14575afe4","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Swyu Ajin SHG","isactive":"1","createdate":1758627079280,"updatedate":1758627079280}]
+2025-09-23 11:31:19,280 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:19,443 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:19,443 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:19,443 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"958c3306-e20c-4a0b-a78d-148e52e6add0","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Jolansow SHG","isactive":"1","createdate":1758627079443,"updatedate":1758627079443}]
+2025-09-23 11:31:19,443 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:19,612 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:19,612 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:19,612 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"73a88187-14ea-4426-9ef6-5707948adb12","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Nyori Hote SHG","isactive":"1","createdate":1758627079612,"updatedate":1758627079612}]
+2025-09-23 11:31:19,612 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:19,745 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:19,745 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:19,745 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"1b59e2b3-a3ba-4725-835c-fa5ee51d2362","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Chetum Ane SHG","isactive":"1","createdate":1758627079745,"updatedate":1758627079745}]
+2025-09-23 11:31:19,745 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,112 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,112 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,112 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"852c0b81-77d0-492e-b50b-31ac48e828eb","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Pizirang Den SHG","isactive":"1","createdate":1758627080112,"updatedate":1758627080112}]
+2025-09-23 11:31:20,112 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,244 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,244 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,244 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"6a26b420-b237-4b13-9a22-11c9f0d12a7c","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Pejewa Den SHG","isactive":"1","createdate":1758627080244,"updatedate":1758627080244}]
+2025-09-23 11:31:20,244 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,393 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,393 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,393 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9c0f2a21-426e-4a4f-9403-a1070cb885fe","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Okum Apa SHG","isactive":"1","createdate":1758627080393,"updatedate":1758627080393}]
+2025-09-23 11:31:20,393 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,548 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,548 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,548 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"cd9b2e08-0226-410f-9f74-4feff71e0236","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Pakro Women SHG","isactive":"1","createdate":1758627080548,"updatedate":1758627080548}]
+2025-09-23 11:31:20,549 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,665 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,665 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,665 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"b2580774-fa1d-4539-b326-22d28ed7dfb8","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Seko SHG","isactive":"1","createdate":1758627080665,"updatedate":1758627080665}]
+2025-09-23 11:31:20,665 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,799 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,799 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,799 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5ab6ab4e-1bfb-4e9c-9501-02a0db76777f","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Youth Den SHG","isactive":"1","createdate":1758627080799,"updatedate":1758627080799}]
+2025-09-23 11:31:20,799 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:20,947 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:20,947 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:20,947 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7ffc080f-8c00-4032-812a-6491db6b848d","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke","type":"Organization","organization_name":"Pijirand Den SHG","isactive":"1","createdate":1758627080947,"updatedate":1758627080947}]
+2025-09-23 11:31:20,947 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:21,123 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:21,123 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:21,123 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"08972cec-2746-4a6c-a085-654c6a1651cd","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Pejewa SHG","isactive":"1","createdate":1758627081123,"updatedate":1758627081123}]
+2025-09-23 11:31:21,123 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:21,275 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:21,275 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:21,275 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7dc32ab4-8fd7-4c98-9683-795073640bbe","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Business Development","city":"Pakke","type":"Organization","organization_name":"Alphonsha SHG","isactive":"1","createdate":1758627081275,"updatedate":1758627081275}]
+2025-09-23 11:31:21,275 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:21,442 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:21,442 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:21,442 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"2a35f6e9-d5b3-42da-a19c-6166ea378178","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Pajerang SHG","isactive":"1","createdate":1758627081442,"updatedate":1758627081442}]
+2025-09-23 11:31:21,442 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:22,064 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:22,611 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:22,611 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"ca1e339e-1cab-409d-9d81-65a2ed9668ba","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Aming SHG","isactive":"1","createdate":1758627082611,"updatedate":1758627082611}]
+2025-09-23 11:31:22,611 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:22,776 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:22,776 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:22,776 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"48033c2b-bc03-4e1b-8ba7-6b957e033c2f","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Paho Women","isactive":"1","createdate":1758627082776,"updatedate":1758627082776}]
+2025-09-23 11:31:22,776 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:22,944 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:22,944 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:22,944 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"3791b9c1-2619-4aba-a6f6-d38d4c5da77f","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Taoso","type":"Organization","organization_name":"Sawtam Ajin","isactive":"1","createdate":1758627082944,"updatedate":1758627082944}]
+2025-09-23 11:31:22,944 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:23,191 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:23,193 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:23,193 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"512e296d-38f0-4158-9ef8-09684e3728ea","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Gichi Den","isactive":"1","createdate":1758627083193,"updatedate":1758627083193}]
+2025-09-23 11:31:23,193 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:23,393 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:23,393 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:23,393 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"e6078c03-2f4b-48cb-a435-79899edc0719","state":"Arunachal Pradesh","district":"East Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Pakke Town","type":"Organization","organization_name":"Gichi Den","isactive":"1","createdate":1758627083393,"updatedate":1758627083393}]
+2025-09-23 11:31:23,393 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:23,576 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:23,576 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:23,576 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"d1b019ef-0646-4cc3-9f4f-bf27834c159d","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"East kameng pakke kessang","type":"Organization","organization_name":"Shilla fashion","isactive":"1","createdate":1758627083576,"updatedate":1758627083576}]
+2025-09-23 11:31:23,576 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:23,763 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:23,763 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:23,763 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"817fa35f-f7e7-4b5c-b053-9bc39d0125bf","state":"Meghalaya","district":"Ri Bhoi","department":"Department of Business Development","city":"Mawlong Nongtluh","type":"Organization","organization_name":"Iabeh shaphrang","isactive":"1","createdate":1758627083763,"updatedate":1758627083763}]
+2025-09-23 11:31:23,763 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:23,969 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:23,969 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:23,969 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"47303373-f410-403a-ab45-b0bb4663b9cc","state":"Meghalaya","district":"Ri Bhoi","department":"Department of Business Development","city":"Diwon Nongtluh","type":"Organization","organization_name":"Nongtluh Handloom Weavers and Multipurpose co-operative Society","isactive":"1","createdate":1758627083969,"updatedate":1758627083969}]
+2025-09-23 11:31:23,969 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:24,138 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:24,138 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:24,138 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5ee68d80-f733-4345-9991-37cb1dc3968c","state":"Meghalaya","district":"Ri Bhoi","department":"Department of Business Development","city":"SHILLONG","type":"Organization","organization_name":"KINIHO","isactive":"1","createdate":1758627084138,"updatedate":1758627084138}]
+2025-09-23 11:31:24,138 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:24,300 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:24,300 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:24,300 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9424e815-95eb-4f17-b6c3-c39b8ab924e3","state":"Tripura","district":"Dhalai","department":"Department of Advocacy, Consultancy & Projects","city":"Village","type":"Organization","organization_name":"Halahali Centre","isactive":"1","createdate":1758627084300,"updatedate":1758627084300}]
+2025-09-23 11:31:24,300 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:24,465 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:24,465 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:24,465 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"31c4f2b0-6b39-491f-afce-a5151928fe50","state":"Tripura","district":"Dhalai","department":"Department of Advocacy, Consultancy & Projects","city":"Village","type":"Organization","organization_name":"Sotodoltat shilpo","isactive":"1","createdate":1758627084465,"updatedate":1758627084465}]
+2025-09-23 11:31:24,465 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:24,625 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:24,625 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:24,625 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"498c1bef-15d9-485a-bb49-a775176ef1fb","state":"Nagaland","district":"Dimapur","department":"Department of Business Development","city":"Dimapur","type":"Organization","organization_name":"Jaojen Group","isactive":"1","createdate":1758627084625,"updatedate":1758627084625}]
+2025-09-23 11:31:24,625 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:24,779 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:24,779 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:24,779 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"09b56b28-3df2-40ae-b206-ed49fd8a69a4","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Naharlagun","type":"Organization","organization_name":"Sheela Fashion","isactive":"1","createdate":1758627084779,"updatedate":1758627084779}]
+2025-09-23 11:31:24,779 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:24,932 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:24,932 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:24,932 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9f431e5c-fa61-4d9b-98fb-ed9d90603b6e","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Kimin","type":"Organization","organization_name":"Parte Dene Cooperative society","isactive":"1","createdate":1758627084932,"updatedate":1758627084932}]
+2025-09-23 11:31:24,932 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:25,131 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:25,131 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:25,131 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"302f77e0-e79c-4ec5-a67e-227881c08db8","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Kimin","type":"Organization","organization_name":"Deep Den SHG","isactive":"1","createdate":1758627085131,"updatedate":1758627085131}]
+2025-09-23 11:31:25,131 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:25,263 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:25,263 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:25,263 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"4d48e99e-089b-49b3-845c-cbea6782a3eb","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Yupia","type":"Organization","organization_name":"Aka Creation","isactive":"1","createdate":1758627085263,"updatedate":1758627085263}]
+2025-09-23 11:31:25,263 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:25,402 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:25,402 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:25,402 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"a54602ab-eba0-4d99-9bcd-d7a1faf6ee67","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Doimukh","type":"Organization","organization_name":"Lower Emchi SHG","isactive":"1","createdate":1758627085402,"updatedate":1758627085402}]
+2025-09-23 11:31:25,402 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:25,562 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:25,562 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:25,562 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"699111ef-1b57-458b-9eb9-2361fc0c927b","state":"Arunachal Pradesh","district":"West Kameng","department":"Department of Livelihood and Entrepreneurship","city":"Bomdila","type":"Organization","organization_name":"Department of textile and handicrafts, bomdila","isactive":"1","createdate":1758627085562,"updatedate":1758627085562}]
+2025-09-23 11:31:25,562 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:25,713 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:25,713 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:25,713 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"eff598dc-ce64-4314-8176-99d56b24ed05","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Banderdewa","type":"Organization","organization_name":"Mangder SHG","isactive":"1","createdate":1758627085713,"updatedate":1758627085713}]
+2025-09-23 11:31:25,713 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:25,849 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:25,849 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:25,849 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7e56a85c-53ae-4b13-8ce1-9eff6b1d7e83","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Banderdewa","type":"Organization","organization_name":"Kapa Kalu SHG","isactive":"1","createdate":1758627085849,"updatedate":1758627085849}]
+2025-09-23 11:31:25,849 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,014 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,014 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,014 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"4fd9a4a2-3bd4-4372-a4b4-dc5e7c25ff36","state":"Arunachal Pradesh","district":"Papum Pare","department":"Department of Livelihood and Entrepreneurship","city":"Banderdewa","type":"Organization","organization_name":"Mangkum Dene","isactive":"1","createdate":1758627086014,"updatedate":1758627086014}]
+2025-09-23 11:31:26,014 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,144 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,144 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,144 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"27925cf9-5e33-4441-a70b-c6a49ddafa9d","state":"Manipur","district":"Bishnupur","department":"Department of Advocacy, Consultancy & Projects","city":"Moirang","type":"Organization","organization_name":"The Renu Handloom","isactive":"1","createdate":1758627086144,"updatedate":1758627086144}]
+2025-09-23 11:31:26,144 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,282 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,282 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,282 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"fb91cdc7-e0c2-4f57-b0ee-18de9eb3cd86","state":"Manipur","district":"Bishnupur","department":"Department of Advocacy, Consultancy & Projects","city":"Bishnupur","type":"Organization","organization_name":"The Renu Handloom","isactive":"1","createdate":1758627086282,"updatedate":1758627086282}]
+2025-09-23 11:31:26,282 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,425 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,425 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,425 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"82c01219-dbef-4ae1-a09e-1ff3a167cc9a","state":"Manipur","district":"Senapati","department":"Department of Advocacy, Consultancy & Projects","city":"Senapati","type":"Organization","organization_name":"The Renu Handloom","isactive":"1","createdate":1758627086425,"updatedate":1758627086425}]
+2025-09-23 11:31:26,425 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,594 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,594 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,594 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"f0d7ac2b-a0fa-47b3-b69d-e420dbfff45d","state":"Manipur","district":"Imphal West","department":"Department of Advocacy, Consultancy & Projects","city":"Imphal West","type":"Organization","organization_name":"The Renu Handloom","isactive":"1","createdate":1758627086594,"updatedate":1758627086594}]
+2025-09-23 11:31:26,594 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,742 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,750 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,750 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9e692b20-1393-42cc-a66d-168fc21b1f25","state":"Manipur","district":"Senapati","department":"Department of Advocacy, Consultancy & Projects","city":"Imphal West","type":"Organization","organization_name":"The Renu Handloom","isactive":"1","createdate":1758627086750,"updatedate":1758627086750}]
+2025-09-23 11:31:26,750 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:26,886 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:26,886 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:26,886 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"fd7c9e64-b5e5-43d1-ba6e-9087672d2a5e","state":"Manipur","district":"Senapati","department":"Department of Advocacy, Consultancy & Projects","city":"Senapati","type":"Organization","organization_name":"ASHU HANDLOOM WEAVER COOPERATIVE SOCIETY","isactive":"1","createdate":1758627086886,"updatedate":1758627086886}]
+2025-09-23 11:31:26,886 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:27,180 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:27,180 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:27,180 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"bed75c23-881b-4a3c-93f8-a0ea2432b4ff","state":"Manipur","district":"Senapati","department":"Department of Advocacy, Consultancy & Projects","city":"Tamenglony","type":"Organization","organization_name":"ASHU HANDLOOM WEAVER COOPERATIVE SOCIETY","isactive":"1","createdate":1758627087180,"updatedate":1758627087180}]
+2025-09-23 11:31:27,180 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:27,335 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:27,335 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:27,335 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"f7f8ebd2-86be-4cfb-9901-c65c659dfc2d","state":"Manipur","district":"Senapati","department":"Department of Advocacy, Consultancy & Projects","city":"Senapati","type":"Organization","organization_name":"Purba Golajhar Somobay somity","isactive":"1","createdate":1758627087335,"updatedate":1758627087335}]
+2025-09-23 11:31:27,335 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:27,495 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:27,500 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:27,500 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"6c22870b-d7e6-4728-8b2d-800958b6405b","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"Prativa Silk","isactive":"1","createdate":1758627087500,"updatedate":1758627087500}]
+2025-09-23 11:31:27,500 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:27,646 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:27,646 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:27,646 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"88eaa5c8-188d-4f40-a74e-979bd8a4f7a8","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Bengapara","type":"Organization","organization_name":"Prativa Silk","isactive":"1","createdate":1758627087646,"updatedate":1758627087646}]
+2025-09-23 11:31:27,646 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:27,793 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:27,796 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:27,796 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"39c28f3e-6b08-46d2-99e1-f2418034393a","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"Hiyashree Silkalay ","isactive":"1","createdate":1758627087796,"updatedate":1758627087796}]
+2025-09-23 11:31:27,796 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:27,952 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:27,952 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:27,952 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"84662ab6-888d-4796-9db7-c0c7fdb58bf4","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"Nirmali Pat Mugha Udyog","isactive":"1","createdate":1758627087952,"updatedate":1758627087952}]
+2025-09-23 11:31:27,953 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:28,085 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:28,085 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:28,085 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"0aa636c8-6115-4022-9868-e1bdff33d459","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"BHAI BHAI XAL GHAR","isactive":"1","createdate":1758627088085,"updatedate":1758627088085}]
+2025-09-23 11:31:28,085 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:28,228 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:28,228 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:28,228 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"c640370a-1531-4e5a-80e1-e43510a1b24c","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Namati","type":"Organization","organization_name":"BHAI BHAI XAL GHAR","isactive":"1","createdate":1758627088228,"updatedate":1758627088228}]
+2025-09-23 11:31:28,228 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:28,394 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:28,394 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:28,394 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5aabd001-a97f-4a4b-b710-cee29981b627","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Goraimari","type":"Organization","organization_name":"UNMANA PAT MUGA UDYOG","isactive":"1","createdate":1758627088394,"updatedate":1758627088394}]
+2025-09-23 11:31:28,396 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:28,560 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:28,563 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:28,563 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"d4942268-bee7-4f56-b714-2045ff9c5c36","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Byaskuchi ","type":"Organization","organization_name":"UNMANA PAT MUGA UDYOG","isactive":"1","createdate":1758627088563,"updatedate":1758627088563}]
+2025-09-23 11:31:28,563 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:28,730 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:28,730 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:28,730 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"fe72421b-d0a4-46bd-ac0f-b39374ca510c","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"UNMANA PAT MUGA UDYOG","isactive":"1","createdate":1758627088730,"updatedate":1758627088730}]
+2025-09-23 11:31:28,730 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:28,879 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:28,879 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:28,879 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"ba88cda6-5e7d-440d-9947-e1d38724accf","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"BABA GANESH SILK INDUSTRY","isactive":"1","createdate":1758627088879,"updatedate":1758627088879}]
+2025-09-23 11:31:28,879 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:29,048 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:29,048 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:29,048 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"c7585a61-e8c4-46b0-8829-d1ad96cf7f06","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"RADHE SILK  UDYOG","isactive":"1","createdate":1758627089048,"updatedate":1758627089048}]
+2025-09-23 11:31:29,048 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:29,210 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:29,210 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:29,210 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"f11443c3-d49f-4712-ba07-fb269ec75840","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Barkapala","type":"Organization","organization_name":"PRANJIT  SILK  UDYOG","isactive":"1","createdate":1758627089210,"updatedate":1758627089210}]
+2025-09-23 11:31:29,210 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:29,428 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:29,428 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:29,428 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"74d62267-8562-448b-a965-6bdc87999799","state":"Assam","district":"Dibrugarh","department":"Department of Livelihood and Entrepreneurship","city":"Dibrugarh","type":"Organization","organization_name":"Sankalpa Handloom","isactive":"1","createdate":1758627089428,"updatedate":1758627089428}]
+2025-09-23 11:31:29,428 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:29,575 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:29,575 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:29,575 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"b9db2f75-da68-4202-964b-fb519c3518a2","state":"Assam","district":"Dibrugarh","department":"Department of Livelihood and Entrepreneurship","city":"Dibrugarh","type":"Organization","organization_name":"HAJPAR","isactive":"1","createdate":1758627089575,"updatedate":1758627089575}]
+2025-09-23 11:31:29,575 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:29,727 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:29,727 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:29,727 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"fef42502-0a9d-4ffd-995a-690c8ef06330","state":"Assam","district":"Dhemaji","department":"Department of Livelihood and Entrepreneurship","city":"Chowkham No1Pahukhowa, po- Machkwa","type":"Organization","organization_name":"Indeswar's Handloom","isactive":"1","createdate":1758627089727,"updatedate":1758627089727}]
+2025-09-23 11:31:29,727 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:29,896 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:29,896 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:29,896 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"15c74295-2983-43be-9687-4b2e08150135","state":"Assam","district":"Dhemaji","department":"Department of Livelihood and Entrepreneurship","city":"Chowkham No1Pahukhowa, po- Machkwa","type":"Organization","organization_name":"Bishwajyoti's Handloom","isactive":"1","createdate":1758627089896,"updatedate":1758627089896}]
+2025-09-23 11:31:29,896 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:30,056 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:30,056 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:30,056 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"a800ad2e-014f-4d63-826a-e77e931311a8","state":"Assam","district":"Udalguri","department":"Department of Business Development","city":"Niz Mugalbecha","type":"Organization","organization_name":"KKiran Foundation","isactive":"1","createdate":1758627090056,"updatedate":1758627090056}]
+2025-09-23 11:31:30,056 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:30,194 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:30,195 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:30,195 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"22b6e28e-af3c-40b4-8a87-4538fd2cb352","state":"Assam","district":"Udalguri","department":"Department of Business Development","city":"Niz Mugalbecha","type":"Organization","organization_name":"KKiran Foundation","isactive":"1","createdate":1758627090195,"updatedate":1758627090195}]
+2025-09-23 11:31:30,195 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:30,351 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:30,351 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:30,351 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"4f6a46e2-8bcf-46c6-818e-9a095b93861b","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Pub Khagrabari","type":"Organization","organization_name":"DIPIKA WEAVING, JALAH, BAKSA","isactive":"1","createdate":1758627090351,"updatedate":1758627090351}]
+2025-09-23 11:31:30,351 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:30,501 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:30,501 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:30,501 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"3ef8af86-6d9f-4ad5-a987-4bb2a0871d1e","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Pub Khagrabari","type":"Organization","organization_name":"RANJIT SILK EMPORIUM","isactive":"1","createdate":1758627090501,"updatedate":1758627090501}]
+2025-09-23 11:31:30,501 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:30,684 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:30,684 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:30,684 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9caa1eb2-1365-4067-aac8-b2dff8bee2a2","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Dongpar","type":"Organization","organization_name":"BOWA KATA SAMABAY SAMITEE LTD","isactive":"1","createdate":1758627090684,"updatedate":1758627090684}]
+2025-09-23 11:31:30,684 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:30,847 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:30,847 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:30,847 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"97df58b1-e626-481c-b9ba-911faf103156","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Majarabari","type":"Organization","organization_name":"Manas Weavers Cooperative Society Limited","isactive":"1","createdate":1758627090847,"updatedate":1758627090847}]
+2025-09-23 11:31:30,847 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,012 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,012 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,012 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"4d93d641-de63-44a1-8eb8-bb34f038c301","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Saudarvitha","type":"Organization","organization_name":"ANJANA WEAVING, SAUDARVITHA, BAKSA","isactive":"1","createdate":1758627091012,"updatedate":1758627091012}]
+2025-09-23 11:31:31,012 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,159 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,159 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,159 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"e676dd4e-8bab-46a8-aae1-bc488948effd","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Dubi","type":"Organization","organization_name":"RANJIT SILK EMPORIUM","isactive":"1","createdate":1758627091159,"updatedate":1758627091159}]
+2025-09-23 11:31:31,159 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,298 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,298 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,298 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"558c926c-8a3e-4b54-8c38-9b170c7ff163","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Bhethua","type":"Organization","organization_name":"M/S ROY WEAVING UDYOG","isactive":"1","createdate":1758627091298,"updatedate":1758627091298}]
+2025-09-23 11:31:31,298 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,446 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,446 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,446 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"9a828bd0-4a2f-4ba5-b1b7-96ca02139ad9","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Puthimari","type":"Organization","organization_name":"CHANDAN TAT GHAR , PUTHIMARI","isactive":"1","createdate":1758627091446,"updatedate":1758627091446}]
+2025-09-23 11:31:31,446 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,610 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,610 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,610 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"46a5949c-f8ac-45a5-9a12-bf25fda8dcf7","state":"Assam","district":"Barpeta","department":"Department of Business Development","city":"Rajaghat","type":"Organization","organization_name":"M/S DAS WEAVING","isactive":"1","createdate":1758627091610,"updatedate":1758627091610}]
+2025-09-23 11:31:31,610 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,758 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,758 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,758 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"ab090c31-780a-4dd9-8e90-41144a13de50","state":"Assam","district":"Dhemaji","department":"Department of Livelihood and Entrepreneurship","city":"Borpak jiamoria, po- Machkhowa","type":"Organization","organization_name":"Mahanta Silk House 1","isactive":"1","createdate":1758627091758,"updatedate":1758627091758}]
+2025-09-23 11:31:31,758 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:31,943 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:31,943 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:31,943 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5de82cc7-4ce2-47a6-b388-49754ec49414","state":"Assam","district":"Dhemaji","department":"Department of Livelihood and Entrepreneurship","city":"Borpak jiamoria, po- Machkhowa","type":"Organization","organization_name":"Mahanta Silk House 2","isactive":"1","createdate":1758627091943,"updatedate":1758627091943}]
+2025-09-23 11:31:31,943 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:32,092 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:32,092 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:32,092 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7877dd5f-4dc4-42cf-bd6f-79dcc0b50a97","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Tamulpur","type":"Organization","organization_name":"Rukmini Ishanshali ","isactive":"1","createdate":1758627092092,"updatedate":1758627092092}]
+2025-09-23 11:31:32,092 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:32,291 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:32,291 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:32,291 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5ab444f7-f527-4660-9621-10020f7db52e","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Goreswar","type":"Organization","organization_name":"Pintu Weaving Industry ","isactive":"1","createdate":1758627092291,"updatedate":1758627092291}]
+2025-09-23 11:31:32,291 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:32,610 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:32,610 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:32,610 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"246916a3-dfb3-44f9-a0a0-d7a966027117","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Tamulpur","type":"Organization","organization_name":"Tripti Boro Industry ","isactive":"1","createdate":1758627092610,"updatedate":1758627092610}]
+2025-09-23 11:31:32,610 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:32,795 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:32,795 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:32,795 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"41e1edc8-e76d-40f4-acb9-d51c15b433e8","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Tamulpur","type":"Organization","organization_name":"Dipa Silk Industry ","isactive":"1","createdate":1758627092795,"updatedate":1758627092795}]
+2025-09-23 11:31:32,795 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:32,954 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:32,970 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:32,970 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"4cb20636-81d2-4128-a0f7-64b169363242","state":"Assam","district":"Nalbari","department":"Department of Business Development","city":"Gharuabaha","type":"Organization","organization_name":"Har Parbati Silk House","isactive":"1","createdate":1758627092970,"updatedate":1758627092970}]
+2025-09-23 11:31:32,970 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:33,142 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:33,142 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:33,142 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"c920f5eb-4235-47fc-9cb3-d66dea463ec3","state":"Assam","district":"Udalguri","department":"Department of Business Development","city":"Purani Garaibari","type":"Organization","organization_name":"Mainaoshree Weaving Industry ","isactive":"1","createdate":1758627093142,"updatedate":1758627093142}]
+2025-09-23 11:31:33,142 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:33,424 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:33,424 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:33,424 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"0fdd26da-6d86-47f8-9dd6-a2be037f78f2","state":"Assam","district":"Udalguri","department":"Department of Business Development","city":"Udalguri ward no 1","type":"Organization","organization_name":"Rodali BKSS LTD","isactive":"1","createdate":1758627093424,"updatedate":1758627093424}]
+2025-09-23 11:31:33,424 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:33,578 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:33,578 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:33,578 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"cc8e7f7f-1dc8-48f3-a6f9-786b9a2bfe24","state":"Assam","district":"Udalguri","department":"Department of Business Development","city":"Udalguri ward no 1","type":"Organization","organization_name":"Rebari Decorative Weaving ","isactive":"1","createdate":1758627093578,"updatedate":1758627093578}]
+2025-09-23 11:31:33,578 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:33,757 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:33,757 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:33,757 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"e082a8e1-8fcd-460a-b2b7-952926761ca6","state":"Assam","district":"Udalguri","department":"Department of Business Development","city":"Chutiapara","type":"Organization","organization_name":"M/S Rupali Weaving Enterprise","isactive":"1","createdate":1758627093757,"updatedate":1758627093757}]
+2025-09-23 11:31:33,757 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:34,036 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:34,036 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:34,036 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7f4b7b33-b475-49ce-809d-4b37ee90097c","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Mushalpur","type":"Organization","organization_name":"Rangjali Handloom Industry ","isactive":"1","createdate":1758627094036,"updatedate":1758627094036}]
+2025-09-23 11:31:34,036 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:34,258 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:34,259 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:34,259 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"eec67db7-95ab-4d85-a6a8-3dff309ef78f","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Mushalpur","type":"Organization","organization_name":"Krishna Industry ","isactive":"1","createdate":1758627094259,"updatedate":1758627094259}]
+2025-09-23 11:31:34,259 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:34,424 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:34,424 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:34,424 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"3080395e-307a-4493-b1c7-6213735b447b","state":"Assam","district":"Tinsukia","department":"Department of Livelihood and Entrepreneurship","city":"Tinsukia","type":"Organization","organization_name":"Triveni Bayan Silpa","isactive":"1","createdate":1758627094424,"updatedate":1758627094424}]
+2025-09-23 11:31:34,424 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:34,610 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:34,610 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:34,610 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"e64047d0-c549-480e-80c0-42e7db1d3d62","state":"Assam","district":"Tinsukia","department":"Department of Livelihood and Entrepreneurship","city":"Tinsukia","type":"Organization","organization_name":"KAKOPATHER MAHILA B.K.S.S LTD","isactive":"1","createdate":1758627094610,"updatedate":1758627094610}]
+2025-09-23 11:31:34,610 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:34,759 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:34,759 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:34,759 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"61511254-2204-41f5-a28f-a67cfe54a3d8","state":"Assam","district":"Tinsukia","department":"Department of Livelihood and Entrepreneurship","city":"Tinsukia","type":"Organization","organization_name":"BORSHA ENTERPRISES","isactive":"1","createdate":1758627094759,"updatedate":1758627094759}]
+2025-09-23 11:31:34,759 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:34,907 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:34,907 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:34,907 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"022cb786-9d5c-4a92-b75e-b758ac0edbd3","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Kokrajhar","type":"Organization","organization_name":"Sijou Weaving","isactive":"1","createdate":1758627094907,"updatedate":1758627094907}]
+2025-09-23 11:31:34,907 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:35,061 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:35,061 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:35,061 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"de3401eb-d55a-4dc1-8b58-cc45cdb69fa8","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Kokrajhar","type":"Organization","organization_name":"Lophai Shanshali","isactive":"1","createdate":1758627095061,"updatedate":1758627095061}]
+2025-09-23 11:31:35,061 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:35,224 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:35,224 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:35,225 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"6c380650-d54d-406b-85a4-7c1d97e891b5","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Kokrajhar","type":"Organization","organization_name":"Raha Weaving Centre ","isactive":"1","createdate":1758627095224,"updatedate":1758627095224}]
+2025-09-23 11:31:35,225 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:35,486 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:35,486 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:35,486 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"89b71e1a-afad-4875-b85c-5ba93048f9c6","state":"Arunachal Pradesh","district":"East Siang","department":"Department of Livelihood and Entrepreneurship","city":"Oyan","type":"Organization","organization_name":"MG COMMUNITY","isactive":"1","createdate":1758627095486,"updatedate":1758627095486}]
+2025-09-23 11:31:35,486 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:35,645 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:35,645 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:35,645 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"01a16276-1773-4ec6-aa4b-9f6bc4d32c24","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Gossaigaon","type":"Organization","organization_name":"F&F Clothing","isactive":"1","createdate":1758627095645,"updatedate":1758627095645}]
+2025-09-23 11:31:35,645 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:35,804 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:35,804 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:35,804 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5bad114a-d241-4147-a4b2-784cbe784865","state":"Assam","district":"Kokrajhar","department":"Department of Business Development","city":"Mainaopuri","type":"Organization","organization_name":"MAINAO Enterprise ","isactive":"1","createdate":1758627095804,"updatedate":1758627095804}]
+2025-09-23 11:31:35,804 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:35,962 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:35,962 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:35,962 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"eefdbf1c-c180-46b1-85d3-0eed4f319e42","state":"Assam","district":"Kamrup","department":"Department of Business Development","city":"Rangia","type":"Organization","organization_name":"MANDAR HANDLOOM","isactive":"1","createdate":1758627095962,"updatedate":1758627095962}]
+2025-09-23 11:31:35,962 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:36,107 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:36,107 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:36,107 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"dcf7b8cd-282e-4d23-9efb-fa073b3c20a2","state":"Assam","district":"Kamrup Metropolitan","department":"Department of Livelihood and Entrepreneurship","city":"Guwahati","type":"Organization","organization_name":"MEGHALI'S SILK","isactive":"1","createdate":1758627096107,"updatedate":1758627096107}]
+2025-09-23 11:31:36,107 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:36,258 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:36,259 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:36,259 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"a6812b8e-d519-410d-b820-84038adb08f5","state":"Assam","district":"Sivasagar","department":"Department of Livelihood and Entrepreneurship","city":"Sivasagar","type":"Organization","organization_name":"Pallabi Dutta","isactive":"1","createdate":1758627096259,"updatedate":1758627096259}]
+2025-09-23 11:31:36,259 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:36,399 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:36,399 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:36,399 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"3d5c3ce0-5384-40bb-bb80-57e823e8c9df","state":"Assam","district":"Sivasagar","department":"Department of Livelihood and Entrepreneurship","city":"Sivasagar","type":"Organization","organization_name":"Krishna Dutta","isactive":"1","createdate":1758627096399,"updatedate":1758627096399}]
+2025-09-23 11:31:36,399 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:36,544 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:36,544 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:36,544 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"19790c8e-01a9-4855-9f70-05b5cf2c9ae0","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Moi aru Muga PVT LTD","isactive":"1","createdate":1758627096544,"updatedate":1758627096544}]
+2025-09-23 11:31:36,544 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:36,700 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:36,700 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:36,700 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"177c7979-057a-4138-95be-0b44f7ad4991","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Sarah Fashion","isactive":"1","createdate":1758627096700,"updatedate":1758627096700}]
+2025-09-23 11:31:36,700 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:36,843 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:36,843 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:36,843 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"352af206-6468-44ad-884b-31d376517bf7","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Purabi Industries","isactive":"1","createdate":1758627096843,"updatedate":1758627096843}]
+2025-09-23 11:31:36,843 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:37,112 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:37,125 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:37,125 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"654f7b03-d7fe-4619-be99-811762220a4e","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"A n D Sales","isactive":"1","createdate":1758627097125,"updatedate":1758627097125}]
+2025-09-23 11:31:37,125 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:37,324 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:37,324 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:37,325 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"c903ee2a-2b67-4ea0-9ebb-16d721555152","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Bodoland Silk Center","isactive":"1","createdate":1758627097324,"updatedate":1758627097324}]
+2025-09-23 11:31:37,325 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:37,461 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:37,461 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:37,461 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"f7e89725-7f47-495c-8709-0eb5e287058c","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Alakananda Naturales","isactive":"1","createdate":1758627097461,"updatedate":1758627097461}]
+2025-09-23 11:31:37,461 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:37,610 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:37,610 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:37,610 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"2c78c203-5bb9-463b-be42-2539665a2618","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Weavers Collective Producer Company LTD","isactive":"1","createdate":1758627097610,"updatedate":1758627097610}]
+2025-09-23 11:31:37,610 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:37,757 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:37,757 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:37,757 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"61bb9670-f8c1-416d-bd9a-7248fb8ad1c4","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"RIMJHIM BASTRAA","isactive":"1","createdate":1758627097757,"updatedate":1758627097757}]
+2025-09-23 11:31:37,757 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:37,907 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:37,907 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:37,907 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"398e4807-1c36-4b67-83c2-19d83d20f3b1","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Paul Handloom Industry","isactive":"1","createdate":1758627097907,"updatedate":1758627097907}]
+2025-09-23 11:31:37,907 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,058 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,058 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,058 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"b0945e5b-bb9e-449d-b1f2-575238f68ceb","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Sabitri Brahma Handloom and Weaving Industry","isactive":"1","createdate":1758627098058,"updatedate":1758627098058}]
+2025-09-23 11:31:38,058 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,208 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,208 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,208 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"61a83f91-92a7-4405-a2d5-a27fe26d25e4","state":"Assam","district":"Baksa","department":"Department of Business Development","city":"Baksa","type":"Organization","organization_name":"Integrated Textile Park","isactive":"1","createdate":1758627098208,"updatedate":1758627098208}]
+2025-09-23 11:31:38,208 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,379 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,379 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,379 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"ef38ea48-ab63-464d-a687-e81695467273","state":"Assam","district":"Nagaon","department":"Department of Livelihood and Entrepreneurship","city":"Najan, PO- Kuthari","type":"Organization","organization_name":"Lahe Looms ","isactive":"1","createdate":1758627098379,"updatedate":1758627098379}]
+2025-09-23 11:31:38,379 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,541 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,541 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,541 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5fb6557c-2a9b-4ed4-bad9-d57497234ace","state":"Assam","district":"Nagaon","department":"Department of Livelihood and Entrepreneurship","city":"Najan, PO- Kuthari","type":"Organization","organization_name":"Lahe Looms","isactive":"1","createdate":1758627098541,"updatedate":1758627098541}]
+2025-09-23 11:31:38,541 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,692 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,692 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,692 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"cf2d2638-1cbd-4840-913e-b0482398d362","state":"Assam","district":"Nagaon","department":"Department of Livelihood and Entrepreneurship","city":"Najan, PO-Kuthan","type":"Organization","organization_name":"Lahe Looms","isactive":"1","createdate":1758627098692,"updatedate":1758627098692}]
+2025-09-23 11:31:38,692 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,828 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,828 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,828 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"a3735aa4-ce33-4201-a86d-61b23aef33ad","state":"Assam","district":"Kamrup","department":"Department of Business Development","city":"AZARA","type":"Organization","organization_name":"AVA Creations","isactive":"1","createdate":1758627098828,"updatedate":1758627098828}]
+2025-09-23 11:31:38,828 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:38,987 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:38,987 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:38,987 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"e75da2fc-f9e9-427d-b725-038a5f15da14","state":"Assam","district":"Kamrup","department":"Department of Business Development","city":"MATIA PAHAR","type":"Organization","organization_name":"AVA Creations","isactive":"1","createdate":1758627098987,"updatedate":1758627098987}]
+2025-09-23 11:31:38,987 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:39,129 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:39,129 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:39,129 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"5ce9737d-33ab-4150-b7f1-64df9e07e98a","state":"Assam","district":"Sivasagar","department":"Department of Business Development","city":"Aila Habi Village","type":"Organization","organization_name":"Nirmanam Producer Company Limited","isactive":"1","createdate":1758627099129,"updatedate":1758627099129}]
+2025-09-23 11:31:39,129 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:39,290 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:39,290 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:39,290 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"7f3b0692-eace-4d1d-9b05-06b2a147a3e7","state":"Manipur","district":"Thoubal","department":"Department of Advocacy, Consultancy & Projects","city":"Yairipok","type":"Organization","organization_name":"M/S Sanatampha","isactive":"1","createdate":1758627099290,"updatedate":1758627099290}]
+2025-09-23 11:31:39,290 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:39,459 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:39,459 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:39,459 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"ae986f06-ec0b-4427-90e5-d1e4a593d8ca","state":"Manipur","district":"Thoubal","department":"Department of Business development","city":"Kakching","type":"Organization","organization_name":"THE NANDARANI H/L & H/C CS.LTD.","isactive":"1","createdate":1758627099459,"updatedate":1758627099459}]
+2025-09-23 11:31:39,459 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:39,591 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:39,591 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:39,591 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"8ff3ed2b-4843-4db5-be47-b83612051026","state":"Mizoram","district":"Aizawl","department":"Department of Business Development","city":"Aizawl","type":"Organization","organization_name":" Lapr Studio","isactive":"1","createdate":1758627099591,"updatedate":1758627099591}]
+2025-09-23 11:31:39,591 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:39,748 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:39,757 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:39,757 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"83ecb08a-1766-44b8-827f-9d6d14875d26","state":"Meghalaya","district":"Ri Bhoi","department":"Department of Business Development","city":"Ri-Bhoi","type":"Organization","organization_name":"Ahi Arsem","isactive":"1","createdate":1758627099757,"updatedate":1758627099757}]
+2025-09-23 11:31:39,757 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:39,907 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:39,907 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:39,907 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"6ff6d710-e9b0-42da-8de3-3325d4ecaaab","state":"Mizoram","district":"Aizawl","department":"Department of Business Development","city":"Aizawl","type":"Organization","organization_name":" Mizo Handloom","isactive":"1","createdate":1758627099907,"updatedate":1758627099907}]
+2025-09-23 11:31:39,907 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:40,191 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:40,192 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:40,192 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"1400f5ac-1ffe-4f4a-a4f6-c102af6df217","state":"Assam","district":"Kamrup Metropolitan","department":"Department of Business Development","city":"Guwahati","type":"Organization","organization_name":"Sereki Industries","isactive":"1","createdate":1758627100192,"updatedate":1758627100192}]
+2025-09-23 11:31:40,192 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:40,337 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:40,337 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:40,337 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"cd5dc196-48ef-422a-987c-db1d57fdf89d","state":"Nagaland","district":"Dimapur","department":"Department of Business Development","city":"Dimapur","type":"Organization","organization_name":"Proprietorship","isactive":"1","createdate":1758627100337,"updatedate":1758627100337}]
+2025-09-23 11:31:40,337 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:40,492 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:40,492 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:40,492 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"6f123d66-b129-4070-9cee-53db62ade7e8","state":"Manipur","district":"Imphal West","department":"Department of Business development","city":"Imphal West","type":"Organization","organization_name":"Natural Textile Collection","isactive":"1","createdate":1758627100492,"updatedate":1758627100492}]
+2025-09-23 11:31:40,492 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:40,629 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:40,629 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:40,629 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"db874b68-b678-4a0f-b6b4-7ffb802e04a6","state":"Assam","district":"Kamrup Metropolitan","department":"Department of Business Development","city":"sonapur","type":"Organization","organization_name":"PORIS AVARAN","isactive":"1","createdate":1758627100629,"updatedate":1758627100629}]
+2025-09-23 11:31:40,629 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:40,775 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:40,775 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:40,775 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"743075d6-da8c-47cf-96f9-c7709d2bbc81","state":"Assam","district":"Kamrup Metropolitan","department":"Department of Livelihood and Entrepreneurship","city":"Guwahati","type":"Organization","organization_name":"MEET ME INDUSTRY","isactive":"1","createdate":1758627100775,"updatedate":1758627100775}]
+2025-09-23 11:31:40,775 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:40,926 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:40,926 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:40,926 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"c7c8718e-57eb-40ee-a207-bb1dd0e98e25","state":"Assam","district":"Kamrup Metropolitan","department":"Department of Livelihood and Entrepreneurship","city":"Guwahati","type":"Organization","organization_name":"ART & CRAFT GOLDEN THREAD","isactive":"1","createdate":1758627100926,"updatedate":1758627100926}]
+2025-09-23 11:31:40,926 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:41,093 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:41,093 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:41,093 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"23933008-8dce-4fda-984b-48bb997efa51","state":"Assam","district":"Nagaon","department":"Department of Business Development","city":"Raha","type":"Organization","organization_name":"The Fine Craft","isactive":"1","createdate":1758627101093,"updatedate":1758627101093}]
+2025-09-23 11:31:41,093 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:41,243 [7] INFO FlureeCS - Request executed
+2025-09-23 11:31:41,243 [7] INFO FlureeCS - Web request called
+2025-09-23 11:31:41,243 [7] INFO FlureeCS - query :[{"_id":"organization","organizationid":"e5f1b6a6-e870-4115-bcff-821295327222","state":"Assam","district":"Nagaon","department":"Department of Advocacy, Consultancy & Projects","city":"Raha","type":"Organization","organization_name":"The Fine Craft","isactive":"1","createdate":1758627101243,"updatedate":1758627101243}]
+2025-09-23 11:31:41,244 [7] INFO FlureeCS - GetRequestStream function called
+2025-09-23 11:31:41,375 [7] INFO FlureeCS - Request executed
+2025-09-23 11:37:34,750 [9] INFO FlureeCS - Web request called
